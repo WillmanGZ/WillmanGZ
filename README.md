@@ -5,7 +5,7 @@
 I am a systems engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a web developer in a software factory.
 
 - 🌱 I’m currently learning ...
-  - Golang
+  - Express
   - Astro
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, I love 🎮 playing videogames, 🎵 listening to music and 🍿 watching movies.
@@ -23,14 +23,13 @@ I am a systems engineering student, currently halfway through my degree. I am ex
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
   <img src= "https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" >
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 
 </span>
@@ -48,6 +47,6 @@ I am a systems engineering student, currently halfway through my degree. I am ex
 
 ## Check out my Social Media
 
-<a href="www.linkedin.com/in/willmangz" target="_blank">
+<a href="https://www.linkedin.com/in/willmangz" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
