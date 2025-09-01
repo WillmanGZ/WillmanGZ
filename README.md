@@ -5,7 +5,7 @@
 I am a systems engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a web developer in a software factory.
 
 - 🌱 I’m currently learning ...
-  - FastAPI
+  - C# - ASP.NET
   - Astro
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, I love 🎮 playing videogames, 🎵 listening to music and 🍿 watching movies.
