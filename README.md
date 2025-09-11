@@ -6,7 +6,8 @@ I am a systems engineering student, currently halfway through my degree. I am ex
 
 - 🌱 I’m currently learning ...
   - C# - ASP.NET
-  - Astro
+  - Vue.JS
+  - Docker
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, I love 🎮 playing videogames, 🎵 listening to music and 🍿 watching movies.
 - 📫 Reach out to me at: <a href="willman0520@outlook.com">willman0520@outlook.com</a>
